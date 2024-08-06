@@ -20,4 +20,5 @@ path attributes are all displayed in the sections that follow. We also develop a
 one of the random network models, giving a thorough rundown of its features.
 
 Retweet Networks for Twitter Hashtag #voteonedirection. Source: https://networkrepository.com/rt.php (access 22.12.2023)
+
 Facebook Social Network. Source of the dataset. Source: https://snap.stanford.edu/data/index.html#socnets (access 22.12.2023)
